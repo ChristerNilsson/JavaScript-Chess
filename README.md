@@ -1,6 +1,8 @@
 # JavaScript-Chess
 JavaScript Chess Engine
 
+[Try it!](https://christernilsson.github.io/JavaScript-Chess)
+
 A simple chess program for teaching about chess programming for the web. Includes the html code, the javascript code and graphics needed to
 create a chess engine that can be played on a web page.
 <p>
